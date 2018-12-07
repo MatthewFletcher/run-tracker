@@ -20,11 +20,11 @@ Header and implementation file of the linked list of commands
 
 
 ## Workout Class Files	
-Header and implementation file of the workout class
 
 	Workout.h
 	Workout.cpp
 
+Header and implementation file of the workout class
 
 ## Main Files
 
